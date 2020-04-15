@@ -47,6 +47,7 @@
         <div class="text">
           <h1>Congratulations!</h1>
           <h2>Meena & Krishna collaborated to creat a Java Spring web application.</h2>
+          Server host name is: <b><%=request.getServerName() %></b>s
         </div>
       </div>
     </div>
