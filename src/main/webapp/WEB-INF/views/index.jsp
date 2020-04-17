@@ -46,7 +46,7 @@
           </a>
         <div class="text">
           <h1>Congratulations!</h1>
-          <h2>Meena & AWS members collaboration to create a Java Spring web application.</h2>
+          <h2> Hurray to AWS Mini Movement collaboration to create a Java Spring web application.</h2>
           Server host name is: <b><%=request.getServerName() %></b>
         </div>
       </div>
